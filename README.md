@@ -2,41 +2,59 @@
 
 Proyecto académico fullstack con frontend en React y backend en Node.js.  
 Incluye CRUD, validaciones, pruebas en Postman y conexión a SQL Server.
+El sistema está diseñado para ser **user-friendly**, con pantallas simples y fáciles de entender para cualquier usuario.
 
 ---
 
-## 🚀 Características principales
+## 🚀 ¿Qué hace este proyecto?
 
-### 🔵 FRONTEND (React)
+### 🟦 Frontend (React)
+- Interfaz simple y clara.
 - Formularios editables.
-- Validación de campos.
-- Hooks: useState, useEffect.
-- UI con CSS modular.
+- Campos fáciles de entender.
+- Diseño pensado para que cualquier usuario pueda navegar sin confusión.
 
-### 🟢 BACKEND (Node.js + Express)
-- API REST con endpoints CRUD.
-- Conexión a SQL Server (oracledb/tedious).
-- Controladores organizados.
-- Pruebas en Postman.
+### 🟩 Backend (Node.js + Express)
+- API con endpoints CRUD.
+- Conexión a SQL Server.
+- Pruebas de funcionamiento con Postman.
+- Estructura básica pensada para aprendizaje.
 
 ---
+
 
 ## 🛠 Tecnologías utilizadas
 - React
 - Node.js
 - Express
-- SQL Server / Oracle
-- Postman
-- CSS
+- SQL Server
+- CSS simple
+- Postman para pruebas
 
 ---
 
 ## 📁 Estructura
-/sistema-gestion-fullstack
+/sistema-gestion
 /frontend
 /backend
-/sql
 /screenshots
+
+---
+
+## 🖼 Screenshots  
+![Dashboard](https://github.com/user-attachments/assets/c3212550-3edd-44c4-87d3-87c948b57754)
+
+![Proveedores](https://github.com/user-attachments/assets/9b22082f-3e0a-4c7c-be92-669fbf6417fc)
+
+![Agregar prov](https://github.com/user-attachments/assets/68b50ffe-ebce-4cb1-a961-9843113a5030)
+
+![Reportes](https://github.com/user-attachments/assets/9f6b6f3a-c955-4053-95e8-624f941dabce)
+
+![PDF](https://github.com/user-attachments/assets/1e97846e-b911-4670-8d8f-f29f5bbfb0ae)
+
+![controller API](https://github.com/user-attachments/assets/5baebdd2-d67e-483b-a40f-ce8cfe999cda)
+
+![Postman ApiProveedores](https://github.com/user-attachments/assets/78b8946c-8d08-419f-8553-54e915c0d7bc)
 
 ---
 
