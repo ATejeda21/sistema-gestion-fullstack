@@ -1,7 +1,7 @@
 # Sistema de Gestión Fullstack – React + Node.js + SQL Server
 
 Proyecto académico fullstack con frontend en React y backend en Node.js.  
-Incluye CRUD, validaciones, pruebas en Postman y conexión a SQL Server.
+Incluye CRUD, validaciones, pruebas en Postman y conexión a SQL Server.                                                    
 El sistema está diseñado para ser **user-friendly**, con pantallas simples y fáciles de entender para cualquier usuario.
 
 ---
